@@ -1,11 +1,11 @@
 ### Hello World, I'm Tony!👋
 
 - 🔭 I’m a life long learner and always looking to improve my skills.
+- ✔️ I have finished Nucamp Backend, SQL, Devops with python bootcamp.
 - 🌱 I’m currently learning cncf certifications cka, ckad, cks.
-- 👯 I’m looking to collaborate on opensource and any devops related projects.
+- 👯 I’m looking to collaborate on opensource or any devops related projects.
 - 🤔 I’m looking for help becoming an expert on container security.
 - 💬 Ask me about anything related to automated deployments.
-- 📫 How to reach me: anthonywilliams314c@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am also a nurse.
 
