@@ -1,12 +1,12 @@
 ### Hi there, here's what I'm working on!👋
 
-- 🔭 I’m currently working on imporving my python skills.
+- 🔭 I’m currently working on improving my python skills.
 - 🌱 I’m currently learning cncf certifications cka, ckad, cks.
 - 👯 I’m looking to collaborate on opensource and any devops related projects.
 - 🤔 I’m looking for help becoming an expert on container security.
-- 💬 Ask me about anything related to deployments
+- 💬 Ask me about anything related to automated deployments.
 - 📫 How to reach me: anthonywilliams314c@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am also a nurse.
 
 
@@ -20,6 +20,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
