@@ -1,6 +1,6 @@
-### Hi there, here's what I'm working on!👋
+### Hello World, I'm Tony!👋
 
-- 🔭 I’m currently working on improving my python skills.
+- 🔭 I’m a life long learner and always looking to improve my skills.
 - 🌱 I’m currently learning cncf certifications cka, ckad, cks.
 - 👯 I’m looking to collaborate on opensource and any devops related projects.
 - 🤔 I’m looking for help becoming an expert on container security.
