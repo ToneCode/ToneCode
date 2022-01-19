@@ -1,6 +1,6 @@
 ### Hello World, I'm Tony!👋
 
-- 🔭 I’m a life long learner and always looking to improve my skills.
+- 🔭 I’m a life long learner who's always looking to improve my skills.
 - ✔️ I have finished Nucamp Backend, SQL, Devops with python bootcamp.
 - 🌱 I’m currently preparing for cncf certifications cka, ckad, cks.
 - 👯 I’m looking to collaborate on opensource or any devops related projects.
