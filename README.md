@@ -1,6 +1,5 @@
 ### Hi there, here's what I'm working on!👋
 
-<!--
 - 🔭 I’m currently working on imporving my python skills.
 - 🌱 I’m currently learning cncf certifications cka, ckad, cks.
 - 👯 I’m looking to collaborate on opensource and any devops related projects.
@@ -9,7 +8,7 @@
 - 📫 How to reach me: anthonywilliams314c@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a nurse.
--->
+
 
 ## ✉️ Find me on:
 <p align="center">
