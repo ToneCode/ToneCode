@@ -1,8 +1,8 @@
 ### Hello World, I'm Tony!👋
 
 - 🔭 I’m a life long learner who's always looking to improve my skills.
-- ✔️ I have finished Nucamp Backend, SQL, Devops with python bootcamp.
-- 🌱 I’m currently preparing for cncf certifications cka, ckad, cks.
+- ✔️ I have finished Nucamp Backend, SQL, Devops with python bootcamp and I'm cka certified.
+- 🌱 I’m currently preparing for cncf certifications "cks".
 - 👯 I’m looking to collaborate on opensource or any devsecops related projects.
 - 🤔 I’m looking for help becoming an expert on container security.
 - 💬 Ask me about anything related to automated deployments.
