@@ -1,13 +1,15 @@
 ### Hello World, I'm Tony!👋
 
-- 🔭 I’m a life long learner who's always looking to improve my skills.
-- ✔️ I have finished Nucamp Backend, SQL, Devops with python bootcamp and I'm cka certified.
-- 🌱 I’m currently preparing for cncf certifications "cks".
-- 👯 I’m looking to collaborate on opensource or any devsecops related projects.
-- 🤔 I’m looking for help becoming an expert on container security.
-- 💬 Ask me about anything related to automated deployments.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I am also a nurse.
+Lifelong learner constantly leveling up my tech skills!  
+
+🎓 Completed: Nucamp Backend, SQL, DevOps with Python Bootcamp  
+🏆 CKA Certified | Prepping for the CNPA (CNCF)
+🔴 Targeting all Red Hat certifications
+🤝 Open to Open-Source & Platform Engineering collabs  
+🔐 Seeking mentorship to master Container Security  
+🚀 Ask me anything about Automated Deployments😄  
+Pronouns: He/Him  
+Fun fact: I’m also a Nurse, who loves to travel! 🩺
 
 
 ## ✉️ Find me on:
