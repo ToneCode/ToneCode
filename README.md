@@ -1,17 +1,17 @@
 ### Hello World, I'm Tony!👋
 
-Lifelong learner constantly leveling up my tech skills!  
+```markdown
+**Lifelong learner** sharpening tech skills!
 
-🎓 Completed: Nucamp Backend, SQL, DevOps with Python Bootcamp  
-🏆 CKA Certified | Prepping for the CNPA (CNCF)
-🔴 Targeting all Red Hat certifications
-🤝 Open to Open-Source & Platform Engineering collabs  
-🔐 Seeking mentorship to master Container Security  
-🚀 Ask me anything about Automated Deployments😄  
-Pronouns: He/Him  
-Fun fact: I’m also a Nurse, who loves to travel! 🩺
+🎓 Nucamp Backend/SQL/DevOps+Python  
+🏆 **CKA** | Prepping **CNPA (CNCF)** | Chasing **all Red Hat certs**
 
+🤝 Open-source & **Platform Engineering** collabs  
+🔐 Need help mastering **Container Security**  
+🚀 AMA: **Automated Deployments** 😄
 
+**He/Him** | **Fun fact**: Also a **Nurse** 🩺
+```
 ## ✉️ Find me on:
 <p align="left">
  <a href="https://github.com/ToneCode/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="25" style="vertical-align:top; margin:4px"> </a>
