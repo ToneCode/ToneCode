@@ -1,16 +1,14 @@
 ### Hello World, I'm Tony!👋
 
 ```markdown
-**Lifelong learner** sharpening tech skills!
-
+Lifelong learner sharpening tech skills!
 🎓 Nucamp Backend/SQL/DevOps+Python  
-🏆 **CKA** | Prepping **CNPA (CNCF)** | Chasing **all Red Hat certs**
-
-🤝 Open-source & **Platform Engineering** collabs  
-🔐 Need help mastering **Container Security**  
-🚀 AMA: **Automated Deployments** 😄
-
-**He/Him** | **Fun fact**: Also a **Nurse** 🩺
+🏆 CKA | Prepping CNPA (CNCF)
+🏆 Chasing all Red Hat certifications
+🤝 Open-source & Platform Engineering collabs  
+🔐 Need help mastering Container Security
+🚀 AMA: Automated Deployments😄
+He/Him | Fun fact* Also a Nurse, who likes to travel 🩺
 ```
 ## ✉️ Find me on:
 <p align="left">
