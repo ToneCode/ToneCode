@@ -1,7 +1,8 @@
 ### Hello World, I'm Tony!👋
 
 ```markdown
-Lifelong learner sharpening tech skills!
+Lifelong learner sharpening my tech skills daily! My North Star
+Accelerate delivery of dependable software—where availability, reliability, and scalability are non-negotiable
 🎓 Nucamp Backend/SQL/DevOps+Python  
 🏆 CKA | Prepping CNPA (CNCF)
 🏆 Chasing all Red Hat certifications
