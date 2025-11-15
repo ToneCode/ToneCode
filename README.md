@@ -10,6 +10,7 @@ Accelerate delivery of dependable software—where availability, reliability, an
 🔐 Need help mastering Container Security
 🚀 AMA: Automated Deployments😄
 He/Him | Fun fact* Also a Nurse, who likes to travel 🩺
+#PlatformEngineering #InternalDeveloperPlatform #DevEx #Kubernetes
 ```
 ## ✉️ Find me on:
 <p align="left">
