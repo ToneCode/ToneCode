@@ -4,7 +4,7 @@
 Lifelong learner sharpening my tech skills daily! My North Star
 Accelerate delivery of dependable software—where availability, reliability, and scalability are non-negotiable
 🎓 Nucamp Backend/SQL/DevOps+Python  
-🏆 CKA | Prepping CNPA (CNCF)
+🏆 CKA | CNPA | Prepping CNPE (CNCF)
 🏆 Chasing all Red Hat certifications
 🤝 Open-source & Platform Engineering collabs  
 🔐 Need help mastering Container Security
